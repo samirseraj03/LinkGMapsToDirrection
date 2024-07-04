@@ -6,6 +6,10 @@ Cuando estaba estudiando Grado medio donde no se programa , entonces tuve la int
 
 Espero que sea algo de utilidad.
 
+NOTA !!
+
+Si lo vas a utilizar , asegurate de desgargar todas las librerias y asegurate que los CSV esten en el sitio correcto 
+
 
 #SAMIR SERAJ 
 
